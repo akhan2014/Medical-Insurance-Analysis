@@ -3,13 +3,13 @@
 Project Title: Medical Costs Analysis: Smoking, Children, and Regional Impact
 
 
-A . Introduction:
+  A . Introduction:
 
 This project delves into a medical insurance dataset to explore how factors like smoking status, the number of children, and geographical region affect insurance costs. Utilizing Python and libraries such as Pandas, Matplotlib, Scipy, and Seaborn, this analysis provides insights into the correlations between these variables and insurance charges.
 
 
 
-B . Data Description:
+  B . Data Description:
 
 The dataset contains medical insurance cost data for 1,338 individuals. It includes the following columns:
 
@@ -23,7 +23,7 @@ Charges: Individual medical costs billed by health insurance (range: $1,121.87 t
 The data is evenly distributed across genders, with a slight majority of male individuals (676 out of 1338). The 'smoker' status shows a larger proportion of non-smokers (1,064 individuals). The most represented region is the southeast, with 364 individuals.
 
 
-C . Methodology
+  C . Methodology
 
 Data Cleaning: Checked for duplicates and missing values to ensure data quality.
 Statistical Summary: Generated a statistical overview of the dataset, including key metrics for numerical and categorical variables.
@@ -44,7 +44,7 @@ Box Plots: To compare charges between smokers and non-smokers.
 Bar Charts: To show charge variations by number of children and region.
 
 
-D . Analysis and Findings
+  D . Analysis and Findings
 
 Question 1: Impact of Smoking on Medical Costs
 
@@ -76,6 +76,6 @@ Visualization: A bar chart showing the variation of medical charges across diffe
 LINK TO VISUALIZATION
 
 
-E . Conclusion
+  E . Conclusion
 
 The analysis reveals that smoking status, number of children, and geographical region significantly influence medical insurance costs. Smokers face substantially higher costs compared to non-smokers. Insurance rates vary with the number of children, showing a non-linear relationship. Regional differences also play a crucial role, with the southeast region experiencing the highest charges. These findings highlight the complexity and multi-faceted nature of medical insurance pricing.
