@@ -53,6 +53,7 @@ Method: Grouped data by smoker status and analyzed the summary statistics of cha
 Findings: Smokers incur significantly higher medical costs than non-smokers. The t-test results supported this with a high T-statistic and a low P-value.
 
 Visualization: A box plot showing the distribution of medical charges for smokers versus non-smokers.
+
 ![Medical Charges By Smoker Status](./Medical_Charges_By_Smoker_Status.png)
 
 
@@ -63,7 +64,8 @@ Method: Grouped data by the number of children and analyzed summary statistics o
 Findings: Insurance rates appear to be affected by the number of children, with a peak in charges for families with 2-3 children and a decrease as the number increases further.
 
 Visualization: A bar chart depicting medical charges by the number of children.
-LINK TO VISUALIZATION
+
+![Medical Charges By Number Of Children](./Medical_Charges_By_Number_Of_Children.png)
 
 
 Question 3: Regional Differences in Medical Charges
@@ -73,7 +75,8 @@ Method: Grouped data by region and analyzed summary statistics of charges. Perfo
 Findings: Significant differences in medical charges across regions, with the southeast region showing higher charges.
 
 Visualization: A bar chart showing the variation of medical charges across different regions.
-LINK TO VISUALIZATION
+
+![Medical Charges By Region](./Medical_Charges_By_Region.png)
 
 
   E . Conclusion
