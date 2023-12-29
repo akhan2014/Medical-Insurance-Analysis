@@ -53,7 +53,7 @@ Method: Grouped data by smoker status and analyzed the summary statistics of cha
 Findings: Smokers incur significantly higher medical costs than non-smokers. The t-test results supported this with a high T-statistic and a low P-value.
 
 Visualization: A box plot showing the distribution of medical charges for smokers versus non-smokers.
-![Medical Charges By Smoker Status](./Medical_Charges_By_Smoker_Status.png)
+https://github.com/akhan2014/Medical-Insurance-Analysis/blob/86ff5782427822d88a2ab0fa4ce0d55057f43d4a/Medical%20Charges%20By%20Smoker%20Status.png
 
 
 Question 2: Influence of Number of Children on Insurance Rates
